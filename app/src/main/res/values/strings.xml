@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstKotlinApp</string>
+    <string name="_0" />
+    <string name="age">age</string>
+    <string name="submit">submit</string>
+    <string name="year">year</string>
+    <string name="enter_your_year_of_birth">enter_your_year_of_birth</string>
+</resources>
